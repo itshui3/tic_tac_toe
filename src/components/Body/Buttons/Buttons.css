@@ -1,0 +1,11 @@
+.btn_cont {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.newgameBtn {
+
+}
+
+.newgameBtn:hover {
+    cursor: grab;
+}
