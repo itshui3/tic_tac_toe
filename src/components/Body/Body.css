@@ -1,0 +1,22 @@
+.body_cont {
+    width: 100%;
+    display: flex;
+    /* default direction row */
+    justify-content: space-between;
+}
+
+.player_cont {
+    margin: 100px 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.center_cont {
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    width: 70%;
+    height: 100%;
+}
