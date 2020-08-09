@@ -1,0 +1,15 @@
+
+.banner_cont {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    background-color: #fce2ce;
+}
+
+.banner_text {
+    font-family: 'Cute Font', cursive;
+    font-size: 75px;
+    margin: 25px;
+}
