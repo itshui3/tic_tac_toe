@@ -1,11 +1,19 @@
 .btn_cont {
-    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'Cute Font', cursive;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
 }
 
 .newgameBtn {
-
+    font-family: 'Cute Font', cursive;
+    font-size: 30px;
 }
 
 .newgameBtn:hover {
     cursor: grab;
+}
+
+.player_notif {
+    font-size: 30px;
 }
