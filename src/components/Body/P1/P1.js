@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from 'react'
+// style
+import './P1.css'
 
 const P1 = ({score}) => {
 
@@ -15,8 +17,8 @@ const P1 = ({score}) => {
 
     return (
         <>
-            <div>
-                Player 1's Score: {numerals}
+            <div className='P1_font'>
+                Player 1's Score: <br></br>{numerals}
             </div>
         </>
     )
