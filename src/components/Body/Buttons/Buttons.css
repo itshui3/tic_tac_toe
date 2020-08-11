@@ -8,6 +8,7 @@
 .newgameBtn {
     font-family: 'Cute Font', cursive;
     font-size: 30px;
+    color: #251f44;
 }
 
 .newgameBtn:hover {

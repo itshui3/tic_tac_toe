@@ -17,15 +17,16 @@
 }
 
 .cell {
-    border: 1px solid #f9f7d9;
+    border: 1px solid #251f44;
     border-radius: 5px;
 
     width: 150px;
     height: 150px;
     margin: 5px;
 
-    background-color: #f9f7d9;
+    background-color: #251f44;
     font-family: 'IBM Plex Sans', sans-serif;
+    color: #fe91ca;
 
     display: flex;
     justify-content: center;
@@ -33,7 +34,8 @@
 }
 
 .cell:hover {
-    background-color: #f7d6bf;
+    background-color: #d3dbff;
+    border-color: white;
 }
 
 .cell_txt {
